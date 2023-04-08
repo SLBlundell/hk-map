@@ -1,0 +1,173 @@
+:root {
+    --fs-18: 1.125rem;
+    --container: 69.375rem;
+    --text: #000;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+
+@font-face {
+    font-family: 'gzasuper';
+    src: url('assets/gza_super/gza-super-webfont.woff2') format('woff2'),
+         url('assets/gza_super/gza-super-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'SuisseIntl-FreeTrial';
+    src: url('assets/SuisseIntl-FreeTrial/Web/Woff2/SuisseIntl-Book-WebTrial.woff2') format('woff2'),
+         url('assets/SuisseIntl-FreeTrial/Web/Woff/SuisseIntl-Book-WebTrial.woff') format('woff');
+    font-weight: light;
+    font-style: normal;
+
+}
+
+
+html {
+    box-sizing: border-box;
+    font-size: 100%;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    height: 75vh;
+}
+
+.wrapper {
+    width: calc(100% - 2rem);
+    max-width: var(--container);
+    margin-inline: auto;
+    text-align: center;
+}
+
+img,
+svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.visually-hidden {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+@media (min-width: 37.5rem) {
+    /* 600px */
+    .wrapper {
+        width: calc(100% - 3.75rem)
+    }
+}
+
+h1{
+    color: var(--text);
+    font-family: 'gzasuper';
+    font-size: 3rem;
+    text-align: center;
+    padding: 5px;
+}
+
+h2{
+    color: var(--text);
+    font-family: 'SuisseIntl-FreeTrial';
+    font-size: 1.5rem;
+    text-align: center;
+    border-bottom: 2.5px solid var(--text);
+}
+
+h3, p{
+    color: var(--text);
+    font-family: 'Roboto Mono', 'normal';
+    text-align: center;
+}
+
+map{
+  padding: 5px;
+}
+
+/* HEADER */
+
+.header {
+    position: relative;
+    z-index: 1;
+    margin-block-start: 20px;
+    background-color: var(--grey);
+    padding: 10px;
+  }
+  
+  .header__nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    gap: 10px 25px;
+    padding-bottom: 10px;
+    border-bottom: 2.5px solid var(--text);
+  }
+  
+  .header__home {
+    font-size: 1.5rem;
+    font-size: clamp(1.5rem, 1.02rem + 2.04vw, 2rem);
+    line-height: 1;
+    color: var(--text);
+    text-decoration: none;
+    flex: 1 0 100%;
+    font-family: 'SuisseIntl-FreeTrial';
+  }
+  
+
+  .header__social:hover > svg > path {
+    fill: var(--green);
+  }
+  
+  @media (min-width: 37.5em) {
+
+    .header__nav {
+      justify-content: flex-start;
+      align-items: center;
+      text-align: left;
+      gap: 32px;
+    }
+  
+    .header__home {
+      flex: 0 1 auto;
+      margin-inline-end: auto;
+    }
+  }
+  
+  @media (min-width: 62.5em) {
+
+  
+    .header__nav {
+      padding-right: 30px;
+    }
+  }
+
+  .header__menu-content {
+    display: none;
+    font-family: 'Roboto Mono';
+}
+
+.header__menu-content--visible {
+    display: block;
+}
+
+.header__menu-icon {
+  cursor: pointer;
+}
+
+

@@ -1,0 +1,510 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.452841,
+                    22.452841
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "616牛肉火鍋專門店",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.190686,
+                    22.304628
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Wing Lai Yuen",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.35937,
+                    22.47082
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "塔門新漢記海鮮酒家",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.211674,
+                    22.287856
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "CATCH. Quarry Bay",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.130979,
+                    22.204446
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Lamma Rainbow Seafood Restaurant",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.172782,
+                    22.296535
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "The Delhi Club",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.154732,
+                    22.283634
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Sing Kee",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.153583,
+                    22.281747
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Chilli Fagara",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.14827,
+                    22.285521
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Man Mo Dim Sum",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.169721,
+                    22.305788
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Mammy Pancake",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.154768,
+                    22.281863
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "What to Eat",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.129252,
+                    22.282455
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Yuan is Here",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.152892,
+                    22.284148
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Shugestu",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.183055,
+                    22.278331
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Paradise Dynasty",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.155187,
+                    22.279992
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "New Punjab Club",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.166694,
+                    22.318495
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Mr Wong's",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.182365,
+                    22.281505
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Roganic",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.170542,
+                    22.304607
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Australia Dairy Company",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.171187,
+                    22.276362
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Qi - House of Sichuan",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "19"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.15312,
+                    22.282747
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Cornerstone",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.173935,
+                    22.298852
+                ]
+            },
+            "properties": {
+                "description": "Kikanbo is my favourite resturant in Hong Kong, let alone the best ramen I have ever had the pleasure of eating. The tenderness of the beef atop the boldly flavoursome yet balanced broth combined with the sight of the chefs casually working is seared into my memory, so much so that this unassuming ramen shop feels uniquely mine.",
+                "name": "Kikanbo",
+                "category": "restaurant",
+                "mapURL": "TBC",
+                "locationid": "21"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.185413,
+                    22.278732
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "NINETYs",
+                "category": "cafe",            
+                "mapURL": "TBC",
+                "locationid": "22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.172808,
+                    22.297395
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Urban Coffee Roaster",
+                "category": "cafe",
+                "mapURL": "TBC",
+            "locationid": "23"}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.15233,
+                    22.281139
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Elephant Grounds",
+                "category": "cafe",
+                "mapURL": "TBC",
+            "locationid": "24"}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.149718,
+                    22.284749
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Halfway Coffee",
+                "category": "cafe",
+                "mapURL": "TBC",
+            "locationid": "25"}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.154475,
+                    22.283273
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Zero One Coffee & Roastery",
+                "category": "cafe",
+                "mapURL": "TBC",
+            "locationid": "26"}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.154562,
+                    22.283118
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "The Cupping Room",
+                "category": "cafe",
+                "mapURL": "TBC",
+            "locationid": "27"}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.153149,
+                    22.283245
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Nocturne",
+                "category": "bar",
+                "mapURL": "TBC",
+                "locationid": "28"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.186398,
+                    22.281477
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "SKYE",
+                "category": "bar",
+                "mapURL": "TBC",
+                "locationid": "29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.154492,
+                    22.283422
+                ]
+            },
+            "properties": {
+                "description": "TBC",
+                "name": "Social Room",
+                "category": "bar",
+                "mapURL": "TBC",
+                "locationid": "30"
+            }
+        }
+    ]
+}
